@@ -4,7 +4,7 @@
 #include <vector>
 #include <sstream>
 #include <boost/algorithm/string.hpp>
-#include<algorithm>
+#include <algorithm>
 
 using namespace std;
 
